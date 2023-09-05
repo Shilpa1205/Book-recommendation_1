@@ -1,7 +1,8 @@
 # Book-recommendation_1
 Table of Content
-Introduction
-Problem Statement
+
+Introduction,
+Problem Statement,
 Dataset Information
 Tools and Technologies used
 Steps involved
